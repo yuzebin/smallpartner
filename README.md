@@ -12,3 +12,4 @@ smallpartner
   * yuzebin https://github.com/yuzebin
   * zhanglong https://github.com/longzhang
   * zhengkai https://github.com/zhengkai
+  * liuce https://github.com/yayv
