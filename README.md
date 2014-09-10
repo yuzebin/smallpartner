@@ -1,8 +1,13 @@
 smallpartner
 ============
 
-小伙伴
 
- * 小伙伴的github帐号列表：
-  * zebin [http://www.github.com/yuzebin]
-  * binghong [http://www.github.com/feisan]
+ * 小伙伴们的github帐号列表：
+  * liangbinghong https://github.com/feisan
+  * mashihua https://github.com/mashihua
+  * qiaolun https://github.com/qiaolun
+  * xuxiaomin https://github.com/angel22xu
+  * yuelang https://github.com/laonger
+  * yuzebin https://github.com/yuzebin
+  * zhanglong https://github.com/longzhang
+  * zhengkai https://github.com/zhengkai
