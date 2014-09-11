@@ -4,6 +4,7 @@ smallpartner
 
  * 小伙伴们的github帐号列表：
   * gengrui https://github.com/gengrui1983
+  * jiangsimiao https://github.com/jiangsi
   * liangbinghong https://github.com/feisan
   * liuce https://github.com/yayv
   * liutao https://github.com/tarkus
