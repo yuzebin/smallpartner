@@ -3,6 +3,7 @@ smallpartner
 
 
  * 小伙伴们的github帐号列表：
+  * duwei https://github.com/duwei
   * gengrui https://github.com/gengrui1983
   * jiangsimiao https://github.com/jiangsi
   * liangbinghong https://github.com/feisan
