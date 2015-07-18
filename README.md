@@ -11,6 +11,7 @@ smallpartner
   * liutao https://github.com/tarkus
   * mashihua https://github.com/mashihua
   * qiaolun https://github.com/qiaolun
+  * liutao https://github.com/tarkus
   * xuxiaomin https://github.com/angel22xu
   * yuelang https://github.com/laonger
   * yuzebin https://github.com/yuzebin
